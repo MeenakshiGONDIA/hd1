@@ -1,0 +1,92 @@
+li {
+display: inline;
+margin-right: 10px;
+margin-left: 10px;
+font-weight: bolder;
+font-size: 20px;
+color: aliceblue;
+
+}
+
+ul {
+    
+background-color: blue;
+margin: 10px;
+padding: 10px;
+
+}
+
+h1 {
+    background-color: blue;
+    color: white;
+    text-align: center;
+    
+}
+ .items {
+    float:left;
+    margin-top: 50px;
+    margin-right: 30px;
+    margin-bottom: 50px;
+    margin-left: 30px;
+}
+
+.items img {
+    height: 400px;
+    width: 250px;
+}
+
+button {
+    background-color: rgb(66, 90, 104);
+    color: white;
+}
+
+button:hover {
+
+    height: 30px;
+    
+}
+
+form {
+    text-align: center;
+    
+}
+
+h2 {
+    text-align: center;
+}
+
+label {
+    font-weight: bolder;
+}
+
+body {
+    background-color: lightgoldenrodyellow;
+}
+
+.contact img {
+    float:left;
+}
+
+.footer {
+    border: 5px solid;
+    height: 200px;
+    width: 100%;
+    float: right;
+    margin-left: 20px;
+}
+
+.footer h3 {
+    text-align: center;
+}
+
+.footer img {
+   
+   margin-left: 50px;
+   margin-right: 50px;
+}
+
+hr {
+    height:5px;
+}
+
+
